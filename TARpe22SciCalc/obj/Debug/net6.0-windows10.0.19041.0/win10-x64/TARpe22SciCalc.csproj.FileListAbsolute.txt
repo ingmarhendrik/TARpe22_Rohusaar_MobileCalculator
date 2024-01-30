@@ -576,3 +576,10 @@ C:\Users\opilane\source\repos\TARpe22SciCalc-master\TARpe22SciCalc\TARpe22SciCal
 C:\Users\opilane\source\repos\TARpe22SciCalc-master\TARpe22SciCalc\TARpe22SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\opilane\source\repos\TARpe22SciCalc-master\TARpe22SciCalc\TARpe22SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\opilane\source\repos\TARpe22SciCalc-master\TARpe22SciCalc\TARpe22SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\opilane\source\repos\TARpe22SciCalc-master\TARpe22SciCalc\TARpe22SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Cairo-ExtraLight.ttf
+C:\Users\opilane\source\repos\TARpe22SciCalc-master\TARpe22SciCalc\TARpe22SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Cairo-Light.ttf
+C:\Users\opilane\source\repos\TARpe22SciCalc-master\TARpe22SciCalc\TARpe22SciCalc\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
+C:\Users\opilane\source\repos\TARpe22SciCalc-master\TARpe22SciCalc\TARpe22SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Cairo-ExtraLight.ttf
+C:\Users\opilane\source\repos\TARpe22SciCalc-master\TARpe22SciCalc\TARpe22SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\Cairo-Light.ttf
+C:\Users\opilane\source\repos\TARpe22SciCalc-master\TARpe22SciCalc\TARpe22SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\TARpe22SciCalc.csproj.Fody.CopyLocal.cache
+C:\Users\opilane\source\repos\TARpe22SciCalc-master\TARpe22SciCalc\TARpe22SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\TARpe22SciCalc.csproj.Fody.RuntimeCopyLocal.cache
