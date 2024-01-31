@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "lruZ0jIjU9Uq4NT2CJ+GxRgVMTliz8JAFOrdaoWOK8uxakJQSbYrn/kSr8HTMnBg4jkhSpcyWH/YkNy/VV3EyA==",
+  "dgSpecHash": "LP5J94/Aj9DiRulLxJ06orsj3jP02filcTkLrAXhA0vptRlaSnjSzmzK8L6J/3G5klsFx8AmaCDeAb122OZv5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\TARpe22SciCalc-master\\TARpe22SciCalc\\TARpe22SciCalc\\TARpe22SciCalc.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\TARpe22_Rohusaar_MobileCalculator\\TARpe22SciCalc\\TARpe22SciCalc.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\opilane\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
@@ -27,7 +26,6 @@
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.web.webview2\\1.0.1264.42\\microsoft.web.webview2.1.0.1264.42.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.windowsappsdk\\1.1.5\\microsoft.windowsappsdk.1.1.5.nupkg.sha512",
-    "C:\\Users\\opilane\\.nuget\\packages\\ncalcsync\\3.10.0\\ncalcsync.3.10.0.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\runtime.any.system.collections\\4.3.0\\runtime.any.system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\runtime.any.system.globalization\\4.3.0\\runtime.any.system.globalization.4.3.0.nupkg.sha512",
