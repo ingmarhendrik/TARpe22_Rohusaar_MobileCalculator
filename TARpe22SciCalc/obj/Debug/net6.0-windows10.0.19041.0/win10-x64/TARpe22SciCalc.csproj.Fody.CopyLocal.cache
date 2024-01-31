@@ -1,3 +1,4 @@
+C:\Users\opilane\.nuget\packages\antlr4.runtime.standard\4.13.1\lib\netstandard2.0\Antlr4.Runtime.Standard.dll
 C:\Users\opilane\.nuget\packages\communitytoolkit.mvvm\8.2.2\lib\net6.0\CommunityToolkit.Mvvm.dll
 C:\Users\opilane\.nuget\packages\microsoft.extensions.configuration\6.0.1\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll
 C:\Users\opilane\.nuget\packages\microsoft.extensions.configuration.abstractions\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll
@@ -24,6 +25,7 @@ C:\Users\opilane\.nuget\packages\microsoft.windowsappsdk\1.1.5\lib\net5.0-window
 C:\Users\opilane\.nuget\packages\microsoft.windowsappsdk\1.1.5\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll
 C:\Users\opilane\.nuget\packages\microsoft.windowsappsdk\1.1.5\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll
 C:\Users\opilane\.nuget\packages\microsoft.windowsappsdk\1.1.5\lib\net5.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\opilane\.nuget\packages\ncalcsync\3.10.0\lib\net6.0\NCalc.dll
 C:\Users\opilane\.nuget\packages\microsoft.graphics.win2d\1.0.3.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll
 C:\Users\opilane\.nuget\packages\microsoft.web.webview2\1.0.1264.42\runtimes\win-x64\native\WebView2Loader.dll
 C:\Users\opilane\.nuget\packages\microsoft.windowsappsdk\1.1.5\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
@@ -256,4 +258,4 @@ C:\Users\opilane\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.21\ru
 C:\Users\opilane\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.21\runtimes\win-x64\native\ucrtbase.dll
 C:\Users\opilane\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.29\lib\net6.0\Microsoft.Windows.SDK.NET.dll
 C:\Users\opilane\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.29\lib\net6.0\WinRT.Runtime.dll
-C:\Users\opilane\source\repos\TARpe22SciCalc-master\TARpe22SciCalc\TARpe22SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MsixContent\Microsoft.UI.Xaml.Controls.pri
+C:\Users\opilane\source\repos\TARpe22_Rohusaar_MobileCalculator\TARpe22SciCalc\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MsixContent\Microsoft.UI.Xaml.Controls.pri

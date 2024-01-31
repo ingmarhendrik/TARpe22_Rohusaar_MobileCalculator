@@ -4,4 +4,9 @@
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
     <ActiveDebugFramework>net6.0-windows10.0.19041.0</ActiveDebugFramework>
   </PropertyGroup>
+  <ItemGroup>
+    <MauiXaml Update="Views\CalculatorPageCopy.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+  </ItemGroup>
 </Project>
